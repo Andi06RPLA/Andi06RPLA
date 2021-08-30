@@ -4,4 +4,7 @@ Kompetensi sdkd
 -komunikasi asinkron
  -email
 -github
+ -membuat akun
+ -membuat repository(file baru dan commit)
 -git.
+ -belum
