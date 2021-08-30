@@ -6,5 +6,6 @@ Kompetensi sdkd
 -github
  -membuat akun
  -membuat repository(file baru dan commit)
+
 -git.
  -belum
