@@ -1,0 +1,5 @@
+Kompetensi sdkd
+-komunikasi sinkron
+-komunikasi asinkron
+-github
+git
